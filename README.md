@@ -1,7 +1,7 @@
 # 🚀 **SwiftSync AI - Responsive Landing Page Project**  
 
 ## 📌 **Project Overview**  
-This is a **responsive landing page** designed for **SwiftSync AI**, an AI-powered task management tool that automates workflows, integrates with popular apps, and provides smart reminders. The project showcases essential web development skills using **HTML and CSS**.
+This is a **responsive landing page** designed for **SwiftSync AI** (fictional service), an AI-powered task management tool that automates workflows, integrates with popular apps, and provides smart reminders. The project showcases essential web development skills using **HTML and CSS**.
 
 ## 🎯 **Features**  
 - A **hero section** with a captivating introduction and call-to-action.  
